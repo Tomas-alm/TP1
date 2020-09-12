@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1599950091 source:d:\laboratorio - programacion\tp1\tp1 tomas lopez mercado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aritmeticas.h"
+
+1599946854 source:d:\laboratorio - programacion\tp1\tp1 tomas lopez mercado\aritmeticas.c
+	"aritmeticas.h"
+
+1599948260 d:\laboratorio - programacion\tp1\tp1 tomas lopez mercado\aritmeticas.h
+
