@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1599950091 source:d:\laboratorio - programacion\tp1\tp1 tomas lopez mercado\main.c
+1599950327 source:d:\laboratorio - programacion\tp1\tp1 tomas lopez mercado\main.c
 	<stdio.h>
 	<stdlib.h>
 	"aritmeticas.h"
