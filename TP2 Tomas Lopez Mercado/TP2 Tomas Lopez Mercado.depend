@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601692066 source:d:\laboratorio - programacion\tp2\tp2 tomas lopez mercado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+
+1601691025 source:d:\laboratorio - programacion\tp2\tp2 tomas lopez mercado\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+
+1601691891 d:\laboratorio - programacion\tp2\tp2 tomas lopez mercado\arrayemployees.h
+
